@@ -1,0 +1,24 @@
+.heder {
+  background:red;
+  height:90px;
+}
+.main {
+  background:yellow;
+  height:900px;
+
+}
+
+.footer {
+  background:blue;
+  height:180px;
+  }
+
+.li {
+  list-style: none;
+  float:left;
+
+}
+.footer-rogo {
+  list-style: none;
+  float:left;
+}
